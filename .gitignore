@@ -62,3 +62,9 @@ typings/
 
 # NPM Registry Files
 .npmrc
+
+# Specific Browser Files
+*.ts
+*.d.ts
+*.map
+*.ico

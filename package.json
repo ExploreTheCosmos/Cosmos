@@ -2,6 +2,10 @@
   "name": "cosmos",
   "version": "0.0.0-alpha",
   "description": "The Web Browser of the Future!",
+  "brandColors": {
+    "blue": "2F00FF",
+    "pink": "D9009D"
+  },
   "main": "./dist/init.js",
   "scripts": {
     "setup": "npm instal && tsc",
